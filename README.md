@@ -1,0 +1,2 @@
+Bem vindo ao repositório III15S (Introdução à Informática Industrial em 15 Semanas)
+Autor: Dimitri Campos Viana
